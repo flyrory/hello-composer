@@ -6,8 +6,12 @@
             "email": "chenjian@chjgo.com"
         }
     ],
+    "type":"library",
+    "keywords":["flyrory", 'hello-composer'],
+    "homepage":"https://chjgo.com",
     "require": {
 	  "php": ">=7.0.0"
 	},
-	"license": "MIT"
+    "license": "MIT"
+    
 }
