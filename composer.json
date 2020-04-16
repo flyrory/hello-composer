@@ -1,0 +1,12 @@
+{
+    "name": "flyrory/hello-composer",
+    "authors": [
+        {
+            "name": "flyrory",
+            "email": "chenjian@chjgo.com"
+        }
+    ],
+    "require": {
+	  "php": ">=7.0.0"
+	}
+}
